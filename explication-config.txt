@@ -1,0 +1,23 @@
+"token": "TOKEN, = TOKEN du bot
+  "prefix": "*", = Prefix du bot
+  //Systeme de "lock" ou "securiter"
+  "reactionRole": {
+    "721812281347932311": { = ID du message en question
+      "emojis": [
+        {
+          "id": "0000", = ID de l'emoji (on peut remplacer id par name et mettre entre guillemets l'emoji seulement si il est par defaut)
+          "roles": "0000" = ID du rôle à donner (ex : LU)
+        }
+      ]
+    },
+    "0000": { = ID du message
+      "removable": true, = savoir si il est possible de le retirer ou non, true = oui et false = non
+      "emojis": [
+        {
+          "name": "💻", = emoji de la reaction sur le message --- "name" est remplacable par "id" comme au ci dessus et mettre l'id de l'emoji  ^^
+          "roles": [ "0000", "0000" ] = les roles a donner, on peut remplacer [ "0000", "0000" ] par juste "00000" si il n'y a que 1 seul role à donner !
+        },
+      ]
+    }
+  }
+}
