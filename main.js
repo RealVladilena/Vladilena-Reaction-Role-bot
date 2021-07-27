@@ -49,4 +49,4 @@ client.on('ready', () => {
     }, 1e4)
 })
 
-console.log(`TransCom Reaction Role est en ligne !`);
+console.log(`Reaction Role est en ligne !`);
