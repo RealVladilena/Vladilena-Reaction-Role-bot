@@ -1,4 +1,4 @@
-# Alice-Reaction-Role-bot
+# Vladiléna-Reaction-Role-bot
 
 Un simple bot qui donne des rôles quand on clique sur une reaction ^^
 
@@ -25,4 +25,4 @@ Changez tous les placeholders du fichier ``config.json``.:
 
 ## Autheur
 
-* **Alice** _alias_ [@SaabniaTv](https://github.com/SaabniaTv) UwU
+* **Vladiléna** _alias_ [@SaabniaTv](https://github.com/SaabniaTv) UwU
